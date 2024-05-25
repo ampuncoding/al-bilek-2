@@ -1,0 +1,9 @@
+body{
+    background-image: url(wp9550687.jpg)
+}
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    font-size: 45px;
+    margin-right: 150px;
+}
